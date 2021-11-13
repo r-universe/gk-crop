@@ -13,3 +13,8 @@
 	url = https://github.com/gk-crop/simplace_rpkg
 	shallow = true
 	registered = true
+[submodule "rmdutil"]
+	path = rmdutil
+	url = https://github.com/gk-crop/rmdutil
+	shallow = true
+	registered = true
