@@ -18,3 +18,8 @@
 	url = https://github.com/gk-crop/rmdutil
 	shallow = true
 	registered = true
+[submodule "sunscanimport"]
+	path = sunscanimport
+	url = https://github.com/gk-crop/sunscanimport
+	shallow = true
+	registered = true
