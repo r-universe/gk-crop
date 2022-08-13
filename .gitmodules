@@ -23,3 +23,8 @@
 	url = https://github.com/gk-crop/sunscanimport
 	shallow = true
 	registered = true
+[submodule "simplaceUtil"]
+	path = simplaceUtil
+	url = https://github.com/gk-crop/simplaceUtil
+	shallow = true
+	registered = true
