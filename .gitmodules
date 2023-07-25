@@ -1,30 +1,19 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/gk-crop/universe
-	shallow = true
 	branch = HEAD
 [submodule "raddins"]
 	path = raddins
 	url = https://github.com/gk-crop/raddins
-	shallow = true
-	registered = true
 [submodule "simplace"]
 	path = simplace
 	url = https://github.com/gk-crop/simplace_rpkg
-	shallow = true
-	registered = true
 [submodule "rmdutil"]
 	path = rmdutil
 	url = https://github.com/gk-crop/rmdutil
-	shallow = true
-	registered = true
 [submodule "sunscanimport"]
 	path = sunscanimport
 	url = https://github.com/gk-crop/sunscanimport
-	shallow = true
-	registered = true
 [submodule "simplaceUtil"]
 	path = simplaceUtil
 	url = https://github.com/gk-crop/simplaceUtil
-	shallow = true
-	registered = true
