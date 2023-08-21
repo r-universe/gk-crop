@@ -5,15 +5,15 @@
 [submodule "raddins"]
 	path = raddins
 	url = https://github.com/gk-crop/raddins
-[submodule "simplace"]
-	path = simplace
-	url = https://github.com/gk-crop/simplace_rpkg
 [submodule "rmdutil"]
 	path = rmdutil
 	url = https://github.com/gk-crop/rmdutil
-[submodule "sunscanimport"]
-	path = sunscanimport
-	url = https://github.com/gk-crop/sunscanimport
+[submodule "simplace"]
+	path = simplace
+	url = https://github.com/gk-crop/simplace_rpkg
 [submodule "simplaceUtil"]
 	path = simplaceUtil
 	url = https://github.com/gk-crop/simplaceUtil
+[submodule "sunscanimport"]
+	path = sunscanimport
+	url = https://github.com/gk-crop/sunscanimport
