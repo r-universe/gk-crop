@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/gk-crop/universe
+	url = https://github.com/gk-crop/gk-crop.r-universe.dev
 	branch = HEAD
 [submodule "raddins"]
 	path = raddins
