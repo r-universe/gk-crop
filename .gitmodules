@@ -5,6 +5,9 @@
 [submodule "raddins"]
 	path = raddins
 	url = https://github.com/gk-crop/raddins
+[submodule "rdav"]
+	path = rdav
+	url = https://github.com/gk-crop/rdav
 [submodule "rmdutil"]
 	path = rmdutil
 	url = https://github.com/gk-crop/rmdutil
